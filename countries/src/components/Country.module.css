@@ -1,0 +1,54 @@
+body {
+    background-color: #576d6d;
+}
+.cardStyle {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #5b3838;
+  }
+  
+  
+  .containerStyle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 20px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  
+  .headerStyle {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .searchStyle {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+  
+  
+  .imageStyle {
+    width: 100px;
+    height: 100px;
+  }
