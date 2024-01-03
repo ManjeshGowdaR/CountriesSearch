@@ -45,6 +45,7 @@ body {
     padding: 10px;
     font-size: 16px;
     border-radius: 10px;
+    flex-direction: column;
   }
   
   
