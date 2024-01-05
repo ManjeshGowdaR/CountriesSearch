@@ -1,12 +1,5 @@
-import React from "react";
-import Country from "./components/Country";
+import CountriesSearch from "./CountriesSearch";
 
-function App() {
-  return (
-    <div>
-      <Country />
-    </div>
-  );
+export default function App() {
+  return <CountriesSearch />;
 }
-
-export default App;
